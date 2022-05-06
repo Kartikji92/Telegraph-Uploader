@@ -8,8 +8,8 @@
         "telegram-bot",
         "Botz_Official"
     ],
-    "repository": "https://github.com/msy1717/TelegramBot",
-    "success_url": "https://t.me/Botz_Official",
+    "repository": "https://github.com/kartikji92/TelegramBot",
+    "success_url": "https://t.me/gamertechwithfun",
     "env": {
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
